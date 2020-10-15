@@ -109,6 +109,106 @@ object Constants{
 
         questionsList.add(que10)
 
+        //11
+        val que11 = Question(
+            11, "Guess the brand logo",
+            R.drawable.apple,
+            "Apple", "Green-Apple",
+            "Android", "iOS", 1
+        )
+
+        questionsList.add(que11)
+
+        //12
+        val que12 = Question(
+            12, "Guess the brand logo",
+            R.drawable.pringles,
+            "Lays", "Uncle-chips",
+            "Bingo", "Pringles", 4
+        )
+
+        questionsList.add(que12)
+
+        //13
+        val que13 = Question(
+            13, "Guess the brand logo",
+            R.drawable.yamaha,
+            "Hero", "Tata",
+            "Honda", "Yamaha", 4
+        )
+
+        questionsList.add(que13)
+
+        //14
+        val que14 = Question(
+            14, "Guess the brand logo",
+            R.drawable.monster,
+            "Monster", "Thums-up",
+            "Pepsi", "Red-bull", 1
+        )
+
+        questionsList.add(que14)
+
+        //15
+        val que15 = Question(
+            15, "Guess the brand logo",
+            R.drawable.adidas,
+            "Nike", "Puma",
+            "Adidas", "None of these", 3
+        )
+
+        questionsList.add(que15)
+
+        //16
+        val que16 = Question(
+            16, "Based on the shape, guess the country!",
+            R.drawable.russia,
+            "Africa", "China",
+            "New Zealand", "Russia", 4
+        )
+
+        questionsList.add(que16)
+
+        //17
+        val que17 = Question(
+            17, "Based on the shape, guess the country!",
+            R.drawable.southafrica,
+            "South-Africa", "Iceland",
+            "Spain", "Turkey", 1
+        )
+
+        questionsList.add(que17)
+
+        //18
+        val que18 = Question(
+            18, "Based on the shape, guess the country!",
+            R.drawable.newzealand,
+            "Austria", "Vietnam",
+            "Afghanistan", "New Zealand", 4
+        )
+
+        questionsList.add(que18)
+
+        //19
+        val que19 = Question(
+            19, "Based on the shape, guess the country!",
+            R.drawable.afghanistan,
+            "Phillippines", "Afghanistan",
+            "Austria", "Greece", 2
+        )
+
+        questionsList.add(que19)
+
+        //20
+        val que20 = Question(
+            20, "Based on the shape, guess the country!",
+            R.drawable.cuba,
+            "Cuba", "Spain",
+            "Chile", "Canada", 1
+        )
+
+        questionsList.add(que20)
+
         return questionsList
     }
     // END
