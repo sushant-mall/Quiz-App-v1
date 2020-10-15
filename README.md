@@ -1,9 +1,9 @@
 # Quiz-App-v1
 
-Country Flags Quiz
+Simple Quiz App
 ========================
 
-Android quiz application that tests on your knowledge about flags. There are a total of ten questions, all are 
+Android quiz application that tests on your knowledge about flags,countries,logo. There are a total of twenty questions, all are 
 multiple-choice questions and takes input from the user. Each question has an image, question, and multiple 
 choices. Once the user clicks on the submit button,app highllights the correct answer for the question & user's answer become final and cannot be altered. This app has a interactive UI.
 
