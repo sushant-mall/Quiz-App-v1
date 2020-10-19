@@ -38,12 +38,14 @@ Screenshots
 ----------
 
 <img src="https://github.com/sushant-mall/Quiz-App-v1/blob/master/screenshots/Screenshot_1602574699.png"
-width="250"/>
+width="180"/>
 <img src="https://github.com/sushant-mall/Quiz-App-v1/blob/master/screenshots/Screenshot_1602574703.png"
-width="250"/>
+width="180"/>
 <img src="https://github.com/sushant-mall/Quiz-App-v1/blob/master/screenshots/Screenshot_1602574720.png"
-width="250"/>
+width="180"/>
 <img src="https://github.com/sushant-mall/Quiz-App-v1/blob/master/screenshots/Screenshot_1602574725.png"
-width="250"/>
+width="180"/>
 <img src="https://github.com/sushant-mall/Quiz-App-v1/blob/master/screenshots/Screenshot_1602574754.png"
-width="250"/>
+width="180"/>
+
+**Please rate the app on Playstore if you liked it...**
