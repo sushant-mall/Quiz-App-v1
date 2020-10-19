@@ -1,5 +1,6 @@
 # Quiz-App-v1
 
+<img src="https://github.com/sushant-mall/Quiz-App-v1/blob/master/screenshots/Quiz%20App-feature-graphic.png"/>
 
 <a href="https://play.google.com/store/apps/details?id=com.QuizApp.quiz_app"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="75"></a>
 
