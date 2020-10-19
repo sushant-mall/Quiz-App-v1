@@ -1,5 +1,8 @@
 # Quiz-App-v1
 
+
+<a href="https://play.google.com/store/apps/details?id=com.QuizApp.quiz_app"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="75"></a>
+
 Simple Quiz App
 ========================
 
